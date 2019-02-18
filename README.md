@@ -1,2 +1,1 @@
-# Music-Bot
-Music Bot
+# Jmusic

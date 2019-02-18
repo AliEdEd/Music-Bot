@@ -1,0 +1,6 @@
+owner=462042915989094401
+prefix=-
+game=If You Need Support Contact me RedWinter#3486 | -play
+stayinchannel=true
+songinstatus=false
+token=NTQ3MDE4NDAwNzE5OTYyMTE0.D0wtVw.bf8awjh2IOASMlWHrlSE9iqnu54
